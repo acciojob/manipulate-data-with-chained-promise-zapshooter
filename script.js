@@ -1,1 +1,14 @@
 //your JS code here. If required.
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+
+  <body>
+    <!-- do not change this code -->
+    <div id="output"></div>
+    <script type="text/javascript" src="./script.js"></script>
+  </body>
+</html>
